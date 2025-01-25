@@ -72,3 +72,9 @@ Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the MIT License. See [LICENSE](https://github.com/devcontainers/images/blob/main/LICENSE).
 
+"customizations": {
+	// Configure properties specific to Codespaces.
+	"codespaces": {
+		"disableAutomaticConfiguration": true
+	}
+}
